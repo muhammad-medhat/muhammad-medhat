@@ -2,7 +2,10 @@
 <h2 align="center">
   A passionate web developer from Egypt
 </h2>
-<h3> 🔭 I’m currently working on an E-commerce Project using Node-js</h3>
+  - 🔭 I’m currently working on an E-commerce Project using MERN Stack
+  - 🌱 I’m currently learning Laravel Framework
+  - 👯 I’m looking to collaborate on an opensource project using Node-js or React
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-medhat&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-medhat" /> </p>
