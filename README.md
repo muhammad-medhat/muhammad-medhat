@@ -2,9 +2,11 @@
 <h2 align="center">
   A passionate web developer from Egypt
 </h2>
-  - 🔭 I’m currently working on an E-commerce Project using MERN Stack
-  - 🌱 I’m currently learning Laravel Framework
-  - 👯 I’m looking to collaborate on an opensource project using Node-js or React
+<ul>
+  <li> 🔭 I’m currently working on an E-commerce Project using MERN Stack
+  <li> 🌱 I’m currently learning Laravel Framework
+  <li> 👯 I’m looking to collaborate on an opensource project using Node-js or React
+  </ul>
 
 
 
