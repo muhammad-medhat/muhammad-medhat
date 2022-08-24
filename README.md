@@ -35,7 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-medhat&show_icons=true&locale=en" alt="muhammad-medhat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-medhat&" alt="muhammad-medhat" /></p>
 
 <!--
 **muhammad-medhat/muhammad-medhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,4 +49,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-medhat&" alt="muhammad-medhat" /></p>
+
 -->
