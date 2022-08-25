@@ -3,7 +3,7 @@
   A passionate web developer from Egypt
 </h2>
 <ul>
-  <li> 🔭 I’m currently working on an E-commerce Project using MERN Stack
+  <li> 🔭 I’m currently developing an E-commerce Project using MERN Stack
   <li> 🌱 I’m currently learning Laravel Framework
   <li> 👯 I’m looking to collaborate on an opensource project using Node-js or React
   </ul>
